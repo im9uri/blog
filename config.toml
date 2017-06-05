@@ -1,4 +1,4 @@
-baseurl             = "http://www.imgyuri.com"
+baseurl             = "https://www.imgyuri.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"

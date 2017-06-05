@@ -1,4 +1,4 @@
-baseurl             = "https://im9uri.github.io/"
+baseurl             = "http://www.imgyuri.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
